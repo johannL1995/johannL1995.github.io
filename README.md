@@ -2,6 +2,6 @@
   
 # johannL1995.github.io
 
-</div>
-
 Personal Github pages site
+
+</div>
