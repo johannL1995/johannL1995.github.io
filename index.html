@@ -88,6 +88,151 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }  
 
+.card {
+  display: flex;
+  flex-direction: column;
+
+  background: var(--background);
+  width: 20rem;
+  height: 30rem;
+  border: 1px solid var(--border);
+  position: relative;
+  padding: 1rem;
+
+.corner {
+    width: 0.5rem;
+    height: 0.5rem;
+    border: 1px solid var(--border);
+    position: absolute;
+
+    &::after,
+    &::before {
+      content: "";
+      position: absolute;
+    }
+
+    &::after {
+      width: 2rem;
+      height: calc(1rem - 1px);
+    }
+
+    &::before {
+      width: calc(1rem - 1px);
+      height: 2rem;
+    }
+
+    &.left {
+      left: -0.5rem;
+
+      &::after {
+        left: calc(-2px + 1rem);
+        border-left: 1px solid var(--border);
+      }
+
+      &::before {
+        left: -1px;
+        border-left: 1px solid var(--border);
+      }
+    }
+
+    &.right {
+      right: -0.5rem;
+
+      &::after {
+        right: calc(-2px + 1rem);
+        border-right: 1px solid var(--border);
+      }
+
+      &::before {
+        right: -1px;
+        border-right: 1px solid var(--border);
+      }
+    }
+
+    &.top {
+      top: -0.5rem;
+
+      &::after {
+        top: -1px;
+        border-top: 1px solid var(--border);
+      }
+
+      &::before {
+        top: calc(-2px + 1rem);
+        border-top: 1px solid var(--border);
+      }
+    }
+
+    &.bottom {
+      bottom: -0.5rem;
+
+      &::after {
+        bottom: -1px;
+        border-bottom: 1px solid var(--border);
+      }
+
+      &::before {
+        bottom: calc(-2px + 1rem);
+        border-bottom: 1px solid var(--border);
+      }
+    }
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+
+.column img:hover {
+  opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container */
+.container {
+  position: relative;
+  display: none;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
 </style>
 </head>
 
@@ -97,10 +242,50 @@ a {
 
     <h2 class="caretBlink">Who is Johann Le Grange?</h2>
 
+    <img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/AboutMe.png" width="50%">
+    <p>Hello, I'm Johann. I like Computers, electronics and anything where I can learn something new, I'm currently training to become an electrician.</p>
+    <p>Below you can see a few of the things I've done so far while learning.</p>
+
+    <img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/Projects.png" width="50%">
+
+    <p><h3>Updated: 2026 - 08 - 04</h3></p>
+
+    <div class="row">
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/BreakerAndTimerInstall-20260729.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/ChandelierInstall-20260706.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/ChandelierInstall_20260713.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/LearningAboutRelays.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/LearningArduino.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/NewGeyserInstall-20260710.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/RouterFixed.jpg?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/SolderingPractice.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/SurgeProtectorsReplace_20260706.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/TimerInstall-20260706.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/TimerInstall-20260706-Closed.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/TrunkingReplaced-20260801.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+      <div class="column"><img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/PlumbingWashRoom-20260728.png?raw=true" style="width: 80%;" onclick="myFunction(this);"></div>
+    </div>
+
+<div class="container">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <img id="expandedImg" style="width:100%">
+  <div id="imgtext"></div>
+</div>
+
   <hr>
     <footer class="inner">
       <p>Published with <a href="https://pages.github.com/">GitHub Pages</a></p>
     </footer>
   </div>
+
+<script>
+function myFunction(imgs) {
+  var expandImg = document.getElementById("expandedImg");
+  var imgText = document.getElementById("imgtext");
+  expandImg.src = imgs.src;
+  imgText.innerHTML = imgs.alt;
+  expandImg.parentElement.style.display = "block";
+}
+</script>
 
 </body></html>
