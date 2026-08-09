@@ -71,101 +71,9 @@ a {
   -ms-transition: text-shadow 0.5s ease;
 }  
 
-.card {
-  display: flex;
-  flex-direction: column;
-
-  background: var(--background);
-  width: 20rem;
-  height: 30rem;
-  border: 1px solid var(--border);
-  position: relative;
-  padding: 1rem;
-
-.corner {
-    width: 0.5rem;
-    height: 0.5rem;
-    border: 1px solid var(--border);
-    position: absolute;
-
-    &::after,
-    &::before {
-      content: "";
-      position: absolute;
-    }
-
-    &::after {
-      width: 2rem;
-      height: calc(1rem - 1px);
-    }
-
-    &::before {
-      width: calc(1rem - 1px);
-      height: 2rem;
-    }
-
-    &.left {
-      left: -0.5rem;
-
-      &::after {
-        left: calc(-2px + 1rem);
-        border-left: 1px solid var(--border);
-      }
-
-      &::before {
-        left: -1px;
-        border-left: 1px solid var(--border);
-      }
-    }
-
-    &.right {
-      right: -0.5rem;
-
-      &::after {
-        right: calc(-2px + 1rem);
-        border-right: 1px solid var(--border);
-      }
-
-      &::before {
-        right: -1px;
-        border-right: 1px solid var(--border);
-      }
-    }
-
-    &.top {
-      top: -0.5rem;
-
-      &::after {
-        top: -1px;
-        border-top: 1px solid var(--border);
-      }
-
-      &::before {
-        top: calc(-2px + 1rem);
-        border-top: 1px solid var(--border);
-      }
-    }
-
-    &.bottom {
-      bottom: -0.5rem;
-
-      &::after {
-        bottom: -1px;
-        border-bottom: 1px solid var(--border);
-      }
-
-      &::before {
-        bottom: calc(-2px + 1rem);
-        border-bottom: 1px solid var(--border);
-      }
-    }
-  }
-}
-
 * {
   box-sizing: border-box;
 }
-
 
 /* The grid: Four equal columns that floats next to each other */
 .column {
@@ -225,13 +133,13 @@ a {
 
     <h2>Who is Johann Le Grange?</h2>
 <div style="border: solid; border-color: #C695B6; border-radius: 20px; width: 85%; ">
-    <img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/Headings/AboutMeHeading.png?raw=true" width="60%">
+    <img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Headings/AboutMeHeading.png" width="60%">
     <p>Hello, I'm Johann. I like Computers, electronics and anything where I can learn something new, I'm currently training to become an electrician.</p>
     <p>Below you can see a few of the things I've done so far while learning.</p>
 </div>
 <br>
 <div style="border: solid; border-color: #C695B6; border-radius: 20px; width: 85%; ">
-    <img src="https://github.com/johannL1995/johannL1995/blob/main/images/PagesImages/Headings/ProjectsHeading.png?raw=true" width="60%">
+    <img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Headings/ProjectsHeading.png" width="60%">
 
     <p><h3>Updated: 2026 - 08 - 05</h3></p>
 
