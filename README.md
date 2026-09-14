@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Headings/AboutMeHeading.png" width="60%" style="padding-top: 10px">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Headings/AboutMeHeading.png"  style="padding-top: 10px; max-width: 80%;">
 
 </div>
 
@@ -13,39 +13,39 @@ Below you can see a few of the things I've done so far while learning and a few 
 <hr>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Headings/ProjectsHeading.png" style="padding-top: 10px; max-width: 100%;">
+	<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Headings/ProjectsHeading.png" style="padding-top: 10px; max-width: 80%;">
 </div>
 
 <div>
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Milnex-PlugsAndSwitches-20250728.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Milnex-Contactors-20250729.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Milnex-ContacorsAndTimers-20250807.png" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Milnex-PlugsAndSwitches-20250728.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Milnex-Contactors-20250729.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Milnex-ContacorsAndTimers-20250807.png" style="max-width: 50%;">
 </div>
 
 <div>
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/SurgeProtectorsReplace_20260706.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/TimerInstall-20260706.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/BreakerAndTimerInstall-20260729.png" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/SurgeProtectorsReplace_20260706.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/TimerInstall-20260706.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/BreakerAndTimerInstall-20260729.png" style="max-width: 50%;">
 </div>
 
 <div>
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/LearningAboutRelays.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/LearningArduino.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/RouterFixed.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/SolderingPractice.png" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/LearningAboutRelays.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/LearningArduino.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/RouterFixed.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/SolderingPractice.png" style="max-width: 50%;">
 </div>
 
 <div>
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/ChandelierInstall-20260706.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/ChandelierInstall_20260713.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/PlugReplaced_20260805.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/FixingNeutral-20260816.png" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/ChandelierInstall-20260706.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/ChandelierInstall_20260713.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/PlugReplaced_20260805.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/FixingNeutral-20260816.png" style="max-width: 50%;">
 </div>
 
 <div>
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/TrunkingReplaced-20260801.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/PlumbingWashRoom-20260728.png" style="max-width: 100%;">
-<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/NewGeyserInstall-20260710.png" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/TrunkingReplaced-20260801.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/PlumbingWashRoom-20260728.png" style="max-width: 50%;">
+<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/NewGeyserInstall-20260710.png" style="max-width: 50%;">
 </div>
 
 <hr>
