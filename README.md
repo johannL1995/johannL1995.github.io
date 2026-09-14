@@ -39,3 +39,74 @@ Below you can see a few of the things I've done so far while learning and a few 
 
 | <img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/TrunkingReplaced-20260801.png"> | <img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/PlumbingWashRoom-20260728.png"> | <img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/NewGeyserInstall-20260710.png"> |
 |-----|-----|-----|
+
+<hr>
+
+| Education:                   |                                         |   | Contact Info: |                                |
+|------------------------------|-----------------------------------------|---|---------------|--------------------------------|
+| Milnex Training              | Semi-skilled Electrician Skills Program |   | Cell:         | 071 866 9959                   |
+| Centurion Academy Wilkoppies | Microsoft Certified Solutions Expert    |   | E-mail:       | johann@johann17.co.za          |
+| Vereeniging Gimnasium        | National Senior Certificate             |   | Website:      | https://johannl1995.github.io/ |
+
+### Skills
+
+| Programming & Software: |   |    Electronics & Hardware:   |
+|-------------------------|---|------------------------------|
+| HTML & CSS              |   | PCB trace repairs            |
+| C#                      |   | Advanced electronics Repairs |
+| Python                  |   | Computer Assembly            |
+| Powershell              |   | Arduino Knowledge            |
+| Microsoft Office        |   |                              |
+| Blender                 |   |                              |
+| Autodesk Fusion         |   |                              |
+
+| Networking:                                          |   | Other Technical Skills:                 |
+|------------------------------------------------------|---|-----------------------------------------|
+| Cable creation (CAT5, CAT6, Fiber)                   |   | Camera installation (Hikvision)         |
+| Mikrotik, Cambium and Ubiquti Network Configurations |   | Electric systems (DB, Breakers, Timers) |
+| Router Configurations                                |   | Python web servers                      |
+
+### Work Experience
+
+| PC One Stop                                                                                  |
+|----------------------------------------------------------------------------------------------|
+| **Information Technology Support Specialist**                                                |
+| **2021 - 2023**                                                                              |
+| ● General PC, Laptop and Server repair                                                       |
+|  ○ Component Re-soldering for Motherboards, Graphics Cards and Power Supplies                |
+|  ○ Desktop and Server OS Installations                                                       |
+| ● Network Setup and Configurations for Dr malan, Destinata, Voorwaarts and Laerskool Midvaal |
+|  ○ Server Network Configuration                                                              |
+|  ○ Access Point Installation and Configuration                                               |
+| ● Camera Installation for Dr Malan, Meyerton Fire Department and Henley on Klip CPF          |
+|  ○ Hikvision Camera Installation and Configuration                                           |
+|  ○ Hikvision NVR Configuration                                                               |
+|  ○ CAT5, CAT6 and Fiber cable (using SFP) Installation                                       |
+|  ○ Mikrotik Cloud Router Configuration                                                       |
+| ● Basic Programming and Automation                                                           |
+|  ○ Made scripts to Automate tasks for clients by using Powershell                            |
+|  ○ Implemented basic Python web servers to make sharing files easier                         |
+
+| Stratus Net                                             |
+|---------------------------------------------------------|
+| **Information Technology Support Specialist**           |
+| **2018 - 2021**                                         |
+| ● General PC, Laptop and Server repair                  |
+|  ○ Basic Component Diagnosis                            |
+|  ○ Power Supply Replacements                            |
+|  ○ Laptop Cleaning, Testing and Component Replacements  |
+| ● Network Install at several houses (ISP)               |
+|  ○ Ubiquiti, Cambium and Mikrotik Dish installations    |
+|  ○ Router Configuration                                 |
+| ● SSD upgrade and Server install for Dr Malan Computers |
+|  ○ SSD Installation for more than 200 Computers         |
+|  ○ Windows OS Clone to new SSDs                         |
+| ● Network Sector Upgrades                               |
+
+| Le Grano Sanitary Ware                                  |
+|---------------------------------------------------------|
+| **Factory Worker**                                      |
+| **2015 - 2018**                                         |
+| ● General PC, Laptop and Server repair                  |
+|  ○ Basic Component Diagnosis                            |
+|  ○ Power Supply Replacements                            |
