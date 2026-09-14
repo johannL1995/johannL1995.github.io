@@ -1,9 +1,3 @@
-$$
-\color{#C695B6}
-\LARGE
-\text{Who is Johann Le Grange?}
-$$
-
 <div align="center">
   
 <img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/Headings/AboutMeHeading.png" width="60%" style="padding-top: 10px">
