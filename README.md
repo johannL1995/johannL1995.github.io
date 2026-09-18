@@ -151,6 +151,6 @@ Below you can see a few of the things I've done so far while learning and a few 
 |---------------------------------------------------------|
 | **Factory Worker**                                      |
 | **2015 - 2018**                                         |
-| ● General PC, Laptop and Server repair                  |
-|  ○ Basic Component Diagnosis                            |
-|  ○ Power Supply Replacements                            |
+| ● Apply fiberglass	                                  |
+| ● Mixing materials                                      |
+| ● Helping with deliveries                               |
