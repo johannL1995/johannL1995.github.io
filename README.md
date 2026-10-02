@@ -106,9 +106,9 @@ Below you can see a few of the things I've done so far while learning and a few 
 
 | Networking:                                          |   | Other Technical Skills:                 |
 |------------------------------------------------------|---|-----------------------------------------|
-| Cable creation (CAT5, CAT6, Fiber)                   |   | Camera installation (Hikvision)         |
+| Cable creation (CAT5, CAT6, Fiber)                   |   | Control Systems                         |
 | Mikrotik, Cambium and Ubiquti Network Configurations |   | Electric systems (DB, Breakers, Timers) |
-| Router Configurations                                |   | Python web servers                      |
+| Router Configurations                                |   | Beam Robotics                           |
 
 ### Work Experience
 
