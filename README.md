@@ -70,18 +70,6 @@ Below you can see a few of the things I've done so far while learning and a few 
 	</a>
 </div>
 
-<div>
-	<a href="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/TrunkingReplaced-20260801.png">
-		<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/TrunkingReplaced-20260801.png" style="max-width: 100%;">
-	</a>
-	<a href="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/PlumbingWashRoom-20260728.png">
-		<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/PlumbingWashRoom-20260728.png" style="max-width: 100%;">
-	</a>
-	<a href="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/NewGeyserInstall-20260710.png">
-		<img src="https://raw.githubusercontent.com/johannL1995/johannL1995/refs/heads/main/images/PagesImages/NewGeyserInstall-20260710.png" style="max-width: 100%;">
-	</a>
-</div>
-
 <hr>
 
 ## CV
