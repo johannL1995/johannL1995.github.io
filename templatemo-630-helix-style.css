@@ -655,6 +655,15 @@ body.lock .fab {
     margin-bottom: 1rem;
 }
 
+h4 {
+    font-family: 'Newsreader', serif;
+    font-weight: 400;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--ink);
+    margin-bottom: 1rem;
+}
+
 .slot {
     margin-bottom: .85rem
 }
@@ -857,6 +866,10 @@ input[type=range]:focus-visible {
 .lines a:hover {
     border-bottom-color: var(--accent);
     color: var(--accent)
+}
+
+hr {
+    color: rgba(74, 110, 150, .3);
 }
 
 /* ---------- transport ---------- */
