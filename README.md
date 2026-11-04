@@ -4,11 +4,6 @@
    
 </div>
 
-<!-- Using LaTeX equation syntax to make a colored heading. -->
-$$
-\color{#BC0064}
-\LARGE
-\text{Who is Johann Le Grange}
-$$
+# Who is Johann Le Grange
 
 
